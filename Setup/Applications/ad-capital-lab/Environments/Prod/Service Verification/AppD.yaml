@@ -1,0 +1,10 @@
+harnessApiVersion: '1.0'
+type: APP_DYNAMICS
+alertEnabled: false
+alertThreshold: 0.5
+analysisTolerance: LOW
+appDynamicsApplicationName: AD-Capital-SE-Days
+connectorName: MyAppDynamics
+enabled24x7: true
+serviceName: ad-capital-lab
+tierName: Portal-Service

@@ -40,7 +40,6 @@ spec:
           valueFrom:
             fieldRef:
               fieldPath: metadata.name
-          value: Portal
         - name: APPDYNAMICS_AGENT_TIER_NAME
           value: Portal-Service
         - name: APPD_ANALYTICS_MONITOR
